@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pabloep17&show_icons=true&theme=transparent)
 
-[![Follow Mohamed El-Qassas GitHub](https://avatars.githubusercontent.com/u/49816567?s=96&v=4)](https://github.com/melqassas/)
+[![Follow Mohamed El-Qassas GitHub]()](https://github.com/melqassas/)
 
 <!--
 **pabloep17/pabloep17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
