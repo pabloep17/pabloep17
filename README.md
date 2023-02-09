@@ -2,8 +2,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pabloep17&show_icons=true&theme=transparent)
 
-Una fotografía reciente en color del rostro del solicitante, tamaño 32 x 26 mm, con fondo uniforme, blanco, liso, tomada de frente y sin gafas de cristales oscuros o cualquier otra prenda que pueda impedir la identificación de la persona (la fotografía deberá mostrar claramente el óvalo de la cara, que incluye cejas, ojos, nariz, boca y mentón, y deberá ser de alta resolución y en papel fotográfico de buena calidad). 
-No será necesaria la aportación de fotografía cuando haya obtenido o renovado el mismo día el DNI.
 
 <!--
 **pabloep17/pabloep17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
