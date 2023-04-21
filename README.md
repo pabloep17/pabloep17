@@ -2,6 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pabloep17&show_icons=true&theme=transparent)
 
+![Anurag's GitHub stats](https://web.pabloeguilaz.es/widget.php?accion=most_used_lenguajes&token=GKrhCB90fIf12aJo9vbLncjMceDgOm9fU2NqlufpzpXezt3KEpvtEUBUpHAwngTsyfYoPp544ffWOQt6uqYhrMvox0KjIieOTx7L&owner=pabloeguilazperez&repo=Lenguajes)
 
 
 
