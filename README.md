@@ -4,10 +4,6 @@
 
 ![Anurag's GitHub stats](https://web.pabloeguilaz.es/widget.php?option=most_used_lenguajes&token=GKrhCB90fIf12aJo9vbLncjMceDgOm9fU2NqlufpzpXezt3KEpvtEUBUpHAwngTsyfYoPp544ffWOQt6uqYhrMvox0KjIieOTx7L)
 
-
-
-
-
 <!--
 **pabloep17/pabloep17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
