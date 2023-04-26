@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pabloep17&show_icons=true&theme=transparent)
 
-![Anurag's GitHub stats](https://web.pabloeguilaz.es/widget.php?option=most_used_lenguajes&token=GKrhCB90fIf12aJo9vbLncjMceDgOm9fU2NqlufpzpXezt3KEpvtEUBUpHAwngTsyfYoPp544ffWOQt6uqYhrMvox0KjIieOTx7L)
+![Anurag's GitHub stats](https://web.pabloeguilaz.es/widget.php?option=most_used_lenguajes&token=MUDPfvd1DcSQpcTnmvaN1s5yk7LlvazjLQ7pzMs5c6QvvfMaeGyrSRyrOAcVOh3XF7nE320mvesnnUykGa7FKXKUA9NvMtPFJD14)
 
 <!--
 **pabloep17/pabloep17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
