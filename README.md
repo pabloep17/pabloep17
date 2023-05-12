@@ -19,6 +19,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image](https://github.com/pabloep17/pabloep17/assets/113720576/b7bc1a1d-f430-4ee9-9c49-09fac11abde6)
-![image](https://github.com/pabloep17/pabloep17/assets/113720576/e537a660-f6d0-47b4-87e6-7b776d5851b3)
-![image](https://github.com/pabloep17/pabloep17/assets/113720576/3866b954-8a5f-495b-a567-f795d52bc7bc)
