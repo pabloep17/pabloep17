@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 -->
 
 
-![image](https://github.com/pabloep17/pabloep17/assets/113720576/ca356056-5ee8-4e98-b6d3-181d5c598b45)
+![image](https://github.com/pabloep17/pabloep17/assets/113720576/5a665a0d-a09b-42af-acdc-a94ab7e93876)
