@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloep17&layout=compact&langs_count=8&exclude_repo=miniomp)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pabloep17&show_icons=true&theme=transparent)
 
 <!--
